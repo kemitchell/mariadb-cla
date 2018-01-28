@@ -6,7 +6,7 @@ These terms apply to your contribution of materials to a product or project owne
 
 2. With respect to any worldwide copyrights, or copyright applications and registrations, in your contribution:
 
-  - you hereby assign to us joint ownership, and to the extent that such assignment is or becomes invalid, ineffective or unenforceable, you hereby grant to us a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free, unrestricted license to exercise all rights under those copyrights. This includes, at our option, the right to sub-license these same rights to third parties through multiple levels of sub-licensees or other licensing arrangements;
+  - you hereby assign to us joint ownership, and to the extent that such assignment is or becomes invalid, ineffective or unenforceable, you hereby grant to us a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free, unrestricted license to exercise all rights under those copyrights. This includes, at our option, the right to sublicense these same rights to third parties through multiple levels of sublicensees or other licensing arrangements;
 
   - you agree that each of us can do all things in relation to your contribution as if each of us were the sole owners, and if one of us makes a derivative work of your contribution, the one who makes the derivative work (or has it made) will be the sole owner of that derivative work;
 
@@ -20,7 +20,7 @@ These terms apply to your contribution of materials to a product or project owne
 
   - make, have made, use, sell, offer to sell, import, and otherwise transfer your contribution in whole or in part, alone or in combination with or included in any product, work or materials arising out of the project to which your contribution was submitted, and
 
-  - at our option, to sub-license these same rights to third parties through multiple levels of sub-licensees or other licensing arrangements.
+  - at our option, to sublicense these same rights to third parties through multiple levels of sublicensees or other licensing arrangements.
 
   - Note that you don't give us rights to the patent in any other way than to give us the right to freely use the contributed code in the above ways.
 
